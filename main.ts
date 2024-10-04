@@ -2,7 +2,7 @@
  *
  * Created by: Ali Elouasbi
  * Created on: Oct 2024
- * This program turns an LED on a breadboard on and off
+ * This program makes a single RGB LED light up all the digital colors available
 */
 // setup
 basic.clearScreen()
